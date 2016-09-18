@@ -1,0 +1,27 @@
+From 6ea35a37506774fe3078ed82ab0aafa1ee5eedaa Mon Sep 17 00:00:00 2001
+From: "Johnson.Wu" <johnson760816@yahoo.com.tw>
+Date: Sun, 18 Sep 2016 20:53:21 +0800
+Subject: [PATCH] modify test2.txt & test3.txt
+
+---
+ test2.txt | 1 +
+ test3.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+diff --git a/test2.txt b/test2.txt
+index fe6ccb6..50fcca4 100644
+--- a/test2.txt
++++ b/test2.txt
+@@ -1 +1,2 @@
+ add test2.txt file
++1111111111111111111
+diff --git a/test3.txt b/test3.txt
+index 573f804..ee5f616 100644
+--- a/test3.txt
++++ b/test3.txt
+@@ -1 +1,2 @@
+ add test3.txt file
++22222222222222222
+-- 
+1.9.1
+
